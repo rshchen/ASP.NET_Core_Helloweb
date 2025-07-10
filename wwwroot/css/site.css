@@ -1,0 +1,48 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+ body {
+    background-color: plum !important; /* Bootstrap bg-dark #9e74ff*/
+    color: #f8f9fa !important;            /* Bootstrap text-light */
+ } 
+
+
+
+.center-box {
+    display: flex;
+    justify-content: center;   /* 水平置中 */
+    align-items: center;       /* 垂直置中 */
+    margin:auto;
+    /* height: 100vh;             佔滿視窗高度 */
+}
+
+.inner-box {
+    padding: 40px 60px;        /* 固定內距，可依需求調整 */
+    /* border: 1px solid #ccc;    可選：加個邊框讓區塊明顯 */
+    border-radius: 12px;       /* 可選：圓角 */
+    /* background: #fafafa;       可選：背景色 */
+}
+
+/*main {
+    background-color: transparent !important; /* 讓 main 不蓋掉 container 的深色 */
+/*}

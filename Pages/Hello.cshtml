@@ -1,0 +1,14 @@
+﻿@page "{name?}"
+@model MyApp.Namespace.HelloModel
+@{
+}
+
+@functions {
+    public string Name => (string)RouteData.Values["name"] ?? "訪客";
+}
+<div class="center-box">
+    <div class="inner-box">
+        <h2>Hello, @Name!</h2>
+    </div>
+</div>
+

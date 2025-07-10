@@ -1,0 +1,21 @@
+# clasp
+.clasp.json
+
+# Node
+node_modules/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# dotenv
+.env
+
+# Docker (依實際情況)
+docker-compose.override.yml
+data/
+logs/
+
+
