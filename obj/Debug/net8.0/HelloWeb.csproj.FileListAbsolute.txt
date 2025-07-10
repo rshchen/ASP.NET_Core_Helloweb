@@ -28,3 +28,4 @@
 /Users/juihsiangchen/Desktop/piglet/C#/HelloWeb/obj/Debug/net8.0/HelloWeb.pdb
 /Users/juihsiangchen/Desktop/piglet/C#/HelloWeb/obj/Debug/net8.0/HelloWeb.genruntimeconfig.cache
 /Users/juihsiangchen/Desktop/piglet/C#/HelloWeb/obj/Debug/net8.0/ref/HelloWeb.dll
+/Users/juihsiangchen/Desktop/piglet/C#/HelloWeb/obj/Debug/net8.0/HelloWeb.sourcelink.json

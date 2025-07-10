@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vIW99X9HzNi6VUbfsM/+1cv0ytZtMnxCLdE9quFBc1k=",
+  "Hash": "/j8cirx5DW2Eg1iu70d9Z2d6A3PZVlVNxZRNCazT55s=",
   "Source": "HelloWeb",
   "BasePath": "_content/HelloWeb",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/juihsiangchen/Desktop/piglet/C#/HelloWeb/wwwroot/js/index.js",
+      "SourceId": "HelloWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/juihsiangchen/Desktop/piglet/C#/HelloWeb/wwwroot/",
+      "BasePath": "_content/HelloWeb",
+      "RelativePath": "js/index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/index.js"
     },
     {
       "Identity": "/Users/juihsiangchen/Desktop/piglet/C#/HelloWeb/wwwroot/js/site.js",
