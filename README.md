@@ -9,3 +9,4 @@
 2. 修改`wwwroot/css`，改變背景顏色以及讓文字置中，也調整了`div`的`padding`。
 3. 修改首頁文字，並加入即時顯示的時間。
 4. `Pages`底下新增網頁`Hello`，只要輸入網址`https://helloweb.blesstw.com/hello/<name>`，就會顯示你所輸入的`name`。
+5. 首頁中輸入名字就會跳轉到`Hello`網頁。
